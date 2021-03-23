@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 For assignment 3, you will continue to develop your site by coding the distinct wire-frames you created in assignment 2.  You will also solidify your color and graphics strategy by selecting the colors and typography you will use in the final draft of your site. 
 
