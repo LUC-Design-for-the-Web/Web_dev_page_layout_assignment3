@@ -22,7 +22,7 @@ For this requirement, you will need to solidify your site’s color and graphic 
 ## Requirement 3 (Font Strategy): 
 For this requirement, you will need to determine your site’s font strategy.  You are free to include as many fonts as you deem necessary, but its a good design practice to choose 1 or 2 fonts and use varying sizes and font weights. Feel free to incorporate fonts from Google, dafont.com or use the [global web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) typically found across browsers and operating systems.  Once you have identified your sites font, please provide the following information for each item listed below.  Within the CSS code, please comment your response for questions 1 -3.  Your comments should be placed prior to any CSS style rules.  You will also need to place a brief comment above each style rule  describing where font will be rendered in the browser.
 
-- What font(s) will you use for the <body>(default declarations), <p> and <h1> - <h6>(Your individual project must incorporate at least 3 levels of headings.)HTML tags? A CSS comment will also be be placed above each style rule that has the font or font-family property.
+- What font(s) will you use for the ```<body>```(default declarations), ```<p>``` and ```<h1> - <h6>```(Your individual project must incorporate at least 3 levels of headings.)HTML tags? A CSS comment will also be be placed above each style rule that has the font or font-family property.
 - What are the different weights and sizes of the heading and paragraph tags? 
 - What is your desired line-height, word-spacing, and letter-spacing?
 
