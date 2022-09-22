@@ -29,4 +29,4 @@ For this requirement, you will need to determine your site’s font strategy.  Y
 **Demonstrate your font scheme/strategy within the layout.html document.**
 
 ## Requirement 4 (Submission)
-Your site will need to be upload in 2 ways.   1)  You will need to submit a zipped/compressed folder title "assignment3" to Canvas by the due and and time listed.  2) You will also need to submit your assignment folder to the issued GitHub repository assignment 3. Video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
