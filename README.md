@@ -35,7 +35,7 @@ Your project folder will need to be submitted to the assigned GitHub repository 
 | Criteria           | Description                             | Points |
 | -------------------| --------------------------------------- | ------ |
 | Req. 1 - Layout Strategy  | Coded layout using strategies we discussed in class (Traditional Float, CSS Flexbox, CSS Grid (5pts) <br> Layout resembles wireframe created for assignment 2 (5pts)   |   10   |
-| Req. 2 - Color an Graphic Stategy     | Project includes a folder that contains images (1pt) <br>File names comply to ISO 9660 standards and proper use of file extensions. Ex. filenames lowercase, no spaces, ect..(1pt) |  2  |
-| Req. 3 - Font Strategy   | Site passes validation and use of comments within document (4pts) <br>Tags properly indented to display parent-child relationship (1pt)     |   5   |
-| Req. 4 - Submission and Publishing site    | Site is properly uploaded to GitHub and link submitted to Sakai |  3   |
+| Req. 2 - Color an Graphic Stategy     | Site contains images/graphics or placeholders (3pt) <br>Response to Color Strategy questions using CSS comments(3pt) |  6  |
+| Req. 3 - Font Strategy   | Font Strategy is incorporated into HTML document(3pts) <br>Response to Font Strategy questions using CSS comments (3pt)     |   6   |
+| Req. 4 - Submission   | Site is free of errors and published using GitHub pages - link submitted to Sakai |  3   |
 |           |        |**Total Points:   25**   |
