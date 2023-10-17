@@ -30,3 +30,12 @@ For this requirement, you will need to determine your site’s font strategy.  Y
 
 ## Requirement 4 (Submission)
 Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
+
+### Rubric
+| Criteria           | Description                             | Points |
+| -------------------| --------------------------------------- | ------ |
+| Req. 1 - Layout Strategy  | Coded layout using strategies we discussed in class (Traditional Float, CSS Flexbox, CSS Grid (5pts) <br> Layout resembles wireframe created for assignment 2 (5pts)   |   10   |
+| Req. 2 - Color an Graphic Stategy     | Project includes a folder that contains images (1pt) <br>File names comply to ISO 9660 standards and proper use of file extensions. Ex. filenames lowercase, no spaces, ect..(1pt) |  2  |
+| Req. 3 - Font Strategy   | Site passes validation and use of comments within document (4pts) <br>Tags properly indented to display parent-child relationship (1pt)     |   5   |
+| Req. 4 - Submission and Publishing site    | Site is properly uploaded to GitHub and link submitted to Sakai |  3   |
+|           |        |**Total Points:   25**   |
